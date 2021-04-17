@@ -1,0 +1,16 @@
+G:\Sopra Steria\Batch II\BankProject\obj\Debug\netcoreapp3.1\BankProject.csprojAssemblyReference.cache
+G:\Sopra Steria\Batch II\BankProject\obj\Debug\netcoreapp3.1\BankProject.AssemblyInfoInputs.cache
+G:\Sopra Steria\Batch II\BankProject\obj\Debug\netcoreapp3.1\BankProject.AssemblyInfo.cs
+G:\Sopra Steria\Batch II\BankProject\obj\Debug\netcoreapp3.1\BankProject.csproj.CoreCompileInputs.cache
+G:\Sopra Steria\Batch II\BankProject\bin\Debug\netcoreapp3.1\BankProject.exe
+G:\Sopra Steria\Batch II\BankProject\bin\Debug\netcoreapp3.1\BankProject.deps.json
+G:\Sopra Steria\Batch II\BankProject\bin\Debug\netcoreapp3.1\BankProject.runtimeconfig.json
+G:\Sopra Steria\Batch II\BankProject\bin\Debug\netcoreapp3.1\BankProject.runtimeconfig.dev.json
+G:\Sopra Steria\Batch II\BankProject\bin\Debug\netcoreapp3.1\BankProject.dll
+G:\Sopra Steria\Batch II\BankProject\bin\Debug\netcoreapp3.1\BankProject.pdb
+G:\Sopra Steria\Batch II\BankProject\bin\Debug\netcoreapp3.1\BankLibrary.dll
+G:\Sopra Steria\Batch II\BankProject\bin\Debug\netcoreapp3.1\BankLibrary.pdb
+G:\Sopra Steria\Batch II\BankProject\obj\Debug\netcoreapp3.1\BankProject.csproj.CopyComplete
+G:\Sopra Steria\Batch II\BankProject\obj\Debug\netcoreapp3.1\BankProject.dll
+G:\Sopra Steria\Batch II\BankProject\obj\Debug\netcoreapp3.1\BankProject.pdb
+G:\Sopra Steria\Batch II\BankProject\obj\Debug\netcoreapp3.1\BankProject.genruntimeconfig.cache
